@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+.user {
+  cursor: pointer !important;
+}
+
+#chat-container {
+  position: absolute;
+  top: 0;
+  left: 328px;
+  bottom: 0;
+  height: 100vh;
+}
